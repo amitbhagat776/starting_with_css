@@ -1,0 +1,20 @@
+/* External Css */
+
+
+.bihar{
+    color: gray;
+}
+.jharkhand{
+    color: rgb(89, 0, 255);
+}
+
+
+/* targeting all h1 but not going to work */
+h1{
+color: rgb(234, 25, 234);
+
+}
+.ok{
+color: darkgreen;
+
+}

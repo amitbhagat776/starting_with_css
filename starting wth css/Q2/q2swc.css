@@ -1,0 +1,23 @@
+.mainheading {
+    color: aqua;
+    }
+    .mainsubheading {
+    color: rgb(255, 140, 0);
+    }
+    .herotitle {
+    color: rgb(0, 0, 128);
+    }
+    .herodescription {
+    color: blueviolet;
+    }
+    .btn {
+        background-color: #0bc927;
+        }
+        .hero__btn-primary {
+        background-color: crimson;
+        color: wheat;
+        }
+        .hero__btn-secondary {
+        background-color: deeppink;
+        }
+        
